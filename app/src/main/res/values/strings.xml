@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Latihan CRUD</string>
+    <string name="splash_screen">Launch Screen</string>
+    <string name="day_1">Hari 1</string>
+    <string name="play_with_android_studio">Pengenalan
+Android Studio</string>
+    <string name="day_2">Hari 2</string>
+    <string name="layout_and_single_page_app">Layout dan Single Page
+</string>
+    <string name="day_3">Hari 3</string>
+    <string name="intent_and_multi_screen_app">Intent dan Multi
+Page</string>
+    <string name="day_4">Hari 4</string>
+    <string name="material_design_and_storage">Design Material dan
+Penyimpanan</string>
+    <string name="day_5">Hari 5</string>
+    <string name="background_services_and_app_distribution">Background
+Services dan Ujian Tes</string>
+    <string name="explanation">
+Type your text here, then share via other app.
+</string>
+    <string name="hello">Hello!</string>
+    <string name="share">Share</string>
+    <string name="send_intent_title">Send a message via:</string>
+    <!-- SendMessageActivity -->
+    <string name="sending_message">Sending a message</string>
+    <string name="to">To:</string>
+    <string name="send">Send</string>
+    <string name="body">Body:</string>
+    <string name="hint_body">Edit your message.</string>
+    <string name="message_sent">Sent a message \"%1$s\" to
+%2$s.</string>
+    <string name="text_to_share">Text to
+share</string>
+</resources>
